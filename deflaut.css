@@ -1,3 +1,18 @@
-@charset "utf-8";
-/* CSS Document */
+*{margin:auto;}
+.khung{
+	width:590px;
+	height:180px;
+	border:1px solid black;
+}
+.giua ul li{
+	color:blue;
+}
+.giua nav i {
+	color:purple;
+}
+.giua nav{
+	color:red;
+}
+
+
 
